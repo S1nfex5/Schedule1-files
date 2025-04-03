@@ -3,7 +3,7 @@
     "DataVersion": 0,
     "GameVersion": "0.3.3f13",
     "PropertyCode": "sweatshop",
-    "IsOwned": false,
+    "IsOwned": true,
     "SwitchStates": [
         false
     ],
